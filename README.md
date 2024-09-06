@@ -8,7 +8,8 @@ This paper presents the first attempt of a deep and exhaustive evaluation of the
 Our research is centered around two main objectives: a) assessing the human perception of common CVIs in 2D scatterplots and b) exploring the potential of Large Multimodal Models, in particular GPT-4o, to emulate the assessed human perception.
 To this end, we conducted two systematic data studies and a user study covering a broad collection of datasets. By discussing the obtained results, highlighting limitations, and areas for further exploration, this paper aims to propose a foundation for future research activities.
 
-
+## Preprint Paper
+[[Preprint] Towards a Visual Perception-Based Analysis of Clustering Quality Metrics.pdf](https://github.com/blasilli/ClusteringMetricsPerception/blob/main/%5BPreprint%5D%20Towards%20a%20Visual%20Perception-Based%20Analysis%20of%20Clustering%20Quality%20Metrics.pdf)
 
 ## Data Collections
 This repository contains all the materials used in the paper, including datasets, user study responses, charts, and estimations related to the perception of clustering validity indexes (CVIs).
