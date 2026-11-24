@@ -1,0 +1,13 @@
+{
+  "base_url": "http://151.100.96.175:9000/v1",
+  "models": [
+    {
+      "name": "MiniMax-M3-AWQ-INT4",
+      "model": "cyankiwi/MiniMax-M3-AWQ-INT4"
+    },
+    {
+      "name": "Qwen3.8-27B",
+      "model": "Qwen/Qwen3.8-27B"
+    }
+  ]
+}
