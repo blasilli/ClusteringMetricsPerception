@@ -22,7 +22,7 @@ To this end, we conducted two systematic data studies and a user study covering 
 This repository contains all the materials used in the paper, including datasets, user study responses, charts, and estimations related to the perception of clustering validity indexes (CVIs).
 
 #### SDPC
-- `csv/`: Contains CSV files for the SDPC-72 datasets.
+- `csv/`: Contains CSV files of dataset.
 - `img-pdf/`: Contains PDF images of individual scatterplots.
 - `img-png/`: Contains PNG images of individual scatterplots.
 - `imgpairs-pdf/`: Contains PDF images of scatterplot pairs.
@@ -31,7 +31,7 @@ This repository contains all the materials used in the paper, including datasets
 - `pairs.csv`: Contains information about the pairs, such as RPD values.
 
 #### SDPC-72
-- `csv/`: Contains CSV files for the SDPC-72 datasets.
+- `csv/`: Contains CSV files of the dataset.
 - `img-pdf/`: Contains PDF images of individual scatterplots.
 - `img-png/`: Contains PNG images of individual scatterplots.
 - `imgpairs-pdf/`: Contains PDF images of scatterplot pairs.
